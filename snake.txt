@@ -1,0 +1,11 @@
+funcation        role
+1.         define play area boundry
+2.         import turtle
+3.         assign keys to move different directions.
+4.         design food or items eat by snake to increase length
+5.         maximum length of snake
+6.         spped increase with eat of food         
+7.         snake collision check
+8.         assign play pause and restart options 
+9.         at end "score" showing algortihm
+10.         
